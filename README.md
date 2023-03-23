@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SahithKumarrko
+- 👋 Hi, I’m Sahith Kumar Mattala
 - 👀 I’m interested in full stack web(MEAN stack), mobile apps(flutter), game development(unity) and deep learning 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: you can mail me to sahithkumarrko@gmail.com
